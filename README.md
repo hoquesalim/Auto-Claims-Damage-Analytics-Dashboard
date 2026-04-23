@@ -1,4 +1,4 @@
-# Auto Claims & Damage Analytics Dashboard ((Power BI, SQL Project, Excel)
+# Auto Claims & Damage Analytics Dashboard (Power BI, SQL Project, Excel)
 
 ## Objective
 Provide actionable insights into auto insurance claims and damages, enabling stakeholders to monitor claim volumes, detect trends, and optimize operational efficiency.
