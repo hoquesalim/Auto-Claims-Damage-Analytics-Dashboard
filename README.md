@@ -14,10 +14,10 @@ The dashboard includes:
 - Claims Distribution by State (Map)
 - Claims Count by State (Table)
 - Total Loss Vehicle Count
-## Data Sources
-- ClaimsData
-- InjuryDetails
-- VehicleInformation
+## Data Sources:
+- [ClaimsData.csv](./ClaimsData.csv)
+- [InjuryDetails.csv](./InjuryDetails.csv)
+- [VehicleInformation.csv](./VehicleInformation.csv)
 ## Key KPIs
 - Total Number of Claims
 - Average Claims per Month
