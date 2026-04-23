@@ -2,18 +2,17 @@
 
 ## Objective
 Provide actionable insights into auto insurance claims and damages, enabling stakeholders to monitor claim volumes, detect trends, and optimize operational efficiency.
-## Dashboard Overview
-The dashboard includes:
-- Total Number of Claims
-- Average Claims per Month
-- Open Claims
-- Fraud Alerts
-- Monthly Claims Volume Trend
-- Average Repair Days by Labor Cost
-- Medical Cost Distribution by Injury Type
-- Claims Distribution by State (Map)
-- Claims Count by State (Table)
-- Total Loss Vehicle Count
+## Dashboard Overview:
+- [Total Number of Claims](#total-number-of-claims)
+- [Average Claims per Month](#average-claims-per-month)
+- [Open Claims](#open-claims)
+- [Fraud Alerts](#fraud-alerts)
+- [Monthly Claims Volume Trend](#monthly-claims-volume-trend)
+- [Average Repair Days by Labor Cost](#average-repair-days-by-labor-cost)
+- [Medical Cost Distribution by Injury Type](#medical-cost-distribution-by-injury-type)
+- [Claims Distribution by State (Map)](#claims-distribution-by-state-map)
+- [Claims Count by State (Table)](#claims-count-by-state-table)
+- [Total Loss Vehicle Count](#total-loss-vehicle-count)
 ## Data Sources:
 - [ClaimsData.csv](./ClaimsData.csv)
 - [InjuryDetails.csv](./InjuryDetails.csv)
