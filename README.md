@@ -1,7 +1,11 @@
-# Auto Claims & Damage Analytics Dashboard (Power BI, SQL Project, Excel)
+# Auto Claims & Damage Analytics Dashboard (Power BI, SQL Project, Excel):
 
-## Objective
+## Objective:
 Provide actionable insights into auto insurance claims and damages, enabling stakeholders to monitor claim volumes, detect trends, and optimize operational efficiency.
+## Dashboard:
+<img width="1401" height="498" alt="image" src="https://github.com/user-attachments/assets/40c0099d-64a8-4c99-9548-832503c6fd4c" />
+
+
 ## Dashboard Overview:
 - [Total Number of Claims](#total-number-of-claims)
 - [Average Claims per Month](#average-claims-per-month)
@@ -17,7 +21,7 @@ Provide actionable insights into auto insurance claims and damages, enabling sta
 - [ClaimsData.csv](./ClaimsData.csv)
 - [InjuryDetails.csv](./InjuryDetails.csv)
 - [VehicleInformation.csv](./VehicleInformation.csv)
-## Key KPIs
+## Key KPIs:
 - Total Number of Claims
 - Average Claims per Month
 - Number of Open Claims
@@ -27,8 +31,7 @@ Provide actionable insights into auto insurance claims and damages, enabling sta
 - Medical Cost by Injury Type
 - Claims by State
 - Total Loss Vehicles
-
-## How to Use
+## How to Use:
 1. Load the provided datasets into Power BI.
 2. Open the dashboard file.
 3. Use filters and slicers to explore claims data by state, injury type, and other dimensions.
